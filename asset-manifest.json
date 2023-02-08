@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RN-Cart/static/css/main.4ce4c569.css",
+    "main.js": "/RN-Cart/static/js/main.a2ad5fe3.js",
+    "index.html": "/RN-Cart/index.html",
+    "main.4ce4c569.css.map": "/RN-Cart/static/css/main.4ce4c569.css.map",
+    "main.a2ad5fe3.js.map": "/RN-Cart/static/js/main.a2ad5fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce4c569.css",
+    "static/js/main.a2ad5fe3.js"
+  ]
+}
